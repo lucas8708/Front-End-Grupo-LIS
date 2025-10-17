@@ -1,6 +1,6 @@
 # Front-End-Grupo-LIS
 
-# 🧩 Projeto: Cadastro de Pacientes
+# 🧩 Projeto TEA
 
 ## 📋 Descrição  
 Este projeto foi desenvolvido com o objetivo de facilitar o  acompanhamento de pacientes com TEA.  
